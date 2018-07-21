@@ -1,7 +1,7 @@
 {
   "name": "markdown-image-insert",
   "main": "./lib/markdown-image-insert",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Paste image into markdown",
   "keywords": [
     "markdown",
