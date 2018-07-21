@@ -2,4 +2,4 @@
 
 ## Usage
 1. Take a screenshot
-2. hit `ctrl+v` to paste image into the markdown
+2. hit `ctrl+alt+v` to paste image into the markdown

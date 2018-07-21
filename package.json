@@ -10,7 +10,7 @@
     "hexo"
   ],
   "activationCommands": {
-    "atom-workspace": "markdown-image-insert:paste"
+    "atom-text-editor": "markdown-image-insert:paste"
   },
   "repository": "https://github.com/monkeyWie/markdown-image-insert",
   "license": "MIT",
