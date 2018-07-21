@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "markdown-image-insert",
+        "command": "markdown-image-insert:patse"
+      }
+    ]
+  }
+}
