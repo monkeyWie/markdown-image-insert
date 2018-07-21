@@ -22,7 +22,7 @@
       "type": "string",
       "default": "",
       "title": "Save images in this path",
-      "description": "The image is saved in the same directory as the md file by default. You can use template strings such as ${fileName}.",
+      "description": "The image is saved in the same directory as the md file by default. You can use template strings such as ${fileName} ${fileNameWithoutSuffix}.",
       "order": 0
     }
   },
